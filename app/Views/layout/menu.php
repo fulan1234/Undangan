@@ -1,4 +1,4 @@
-<li class="menu-header">Dashboard</li>
+<li class="menu-header">Dashboardzzz</li>
 <li>
     <a class="nav-link" href="<?= site_url('home') ?>">
         <i class="fas fa-fire"></i>
