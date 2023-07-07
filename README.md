@@ -12,18 +12,17 @@ User yang berinteraksi dengan website dalam mendata para tamu yang diundang mula
 
 
 ## Screenshoot dari beberapa UI
+![Screenshot (2700)](https://github.com/fulan1234/Undangan/assets/116423371/d151844d-e345-4525-bf29-609a1f88e7b4)
+![Screenshot (2699)](https://github.com/fulan1234/Undangan/assets/116423371/b91892cf-cb69-4e25-a21d-c462809ee4ee)
+![Screenshot (2698)](https://github.com/fulan1234/Undangan/assets/116423371/c9add694-bc16-41d7-b67e-2e217990e45c)
+![Screenshot (2697)](https://github.com/fulan1234/Undangan/assets/116423371/f046a1cf-00dd-4d89-93d9-7868ccd1bf13)
+![Screenshot (2696)](https://github.com/fulan1234/Undangan/assets/116423371/ef7b3a94-d4ae-4506-ba3a-96226e005580)
+![Screenshot (2695)](https://github.com/fulan1234/Undangan/assets/116423371/8f53110c-7311-4ffd-abe9-506a9ef72b03)
+![Screenshot (2694)](https://github.com/fulan1234/Undangan/assets/116423371/d5698809-33c9-43ab-ad2d-cdf73a875fe9)
+![Screenshot (2693)](https://github.com/fulan1234/Undangan/assets/116423371/1ac0941c-6334-4dfb-bef8-54f35db581f3)
+![Screenshot (2692)](https://github.com/fulan1234/Undangan/assets/116423371/17263ed0-dadb-44fa-92dd-5f334ffa1796)
+![Screenshot (2691)](https://github.com/fulan1234/Undangan/assets/116423371/e0906df0-cb25-4082-9955-e77687d094b5)
+![Screenshot (2690)](https://github.com/fulan1234/Undangan/assets/116423371/de850624-9578-478e-9797-d67e3c5a99f4)
+![Screenshot (2689)](https://github.com/fulan1234/Undangan/assets/116423371/30720e8d-17fa-4105-bb8a-ba4d9469bb8a)
 
-![image](https://github.com/fulan1234/Undangan/assets/116423371/f69dbfa3-d508-445b-b013-3bea27b15c83)
-![Screenshot (2673)](https://github.com/fulan1234/Undangan/assets/116423371/e58a49ac-70e8-4228-9728-1817adb51109)
-![Screenshot (2674)](https://github.com/fulan1234/Undangan/assets/116423371/0c27f79c-80fd-4c6e-9f39-0af0e85f0097)
-![Screenshot (2675)](https://github.com/fulan1234/Undangan/assets/116423371/c6ebee76-4813-4263-a884-67b9ffa0d5f9)
-![Screenshot (2676)](https://github.com/fulan1234/Undangan/assets/116423371/ad528374-6c7b-46e9-8975-cc5b8f60c253)
-![Screenshot (2677)](https://github.com/fulan1234/Undangan/assets/116423371/faf83c66-00a5-42af-8c21-a35b2d8f6648)
-![Screenshot (2678)](https://github.com/fulan1234/Undangan/assets/116423371/71083299-56b4-4b13-b484-8bc446907cf8)
-![Screenshot (2679)](https://github.com/fulan1234/Undangan/assets/116423371/e107b39c-51f1-4e26-b348-b10d86c72c1a)
-![Screenshot (2680)](https://github.com/fulan1234/Undangan/assets/116423371/1c8dc1bf-b9bf-48eb-802f-6bbf1c324927)
-![Screenshot (2682)](https://github.com/fulan1234/Undangan/assets/116423371/a5723d3e-4975-461c-a681-552a1aec48f1)
-![Screenshot (2683)](https://github.com/fulan1234/Undangan/assets/116423371/d1a9de58-6297-4d11-b087-ee007f4a7a5d)
-![Screenshot (2684)](https://github.com/fulan1234/Undangan/assets/116423371/59c293aa-e9a9-437e-8d5c-7990a98a57a2)
-![Screenshot (2685)](https://github.com/fulan1234/Undangan/assets/116423371/fed09d8e-c27f-4778-adc4-3523690e1624)
-![Screenshot (2686)](https://github.com/fulan1234/Undangan/assets/116423371/4f931685-9955-462e-b6a9-89b29f447072)
+
