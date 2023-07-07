@@ -23,6 +23,4 @@ User yang berinteraksi dengan website dalam mendata para tamu yang diundang mula
 
 ## Screenshoot dari beberapa UI
 ![Screenshot (2674)](https://github.com/fulan1234/Undangan/assets/116423371/d2fbd381-4819-4f62-9292-59a2b7d80356)
-![Uploading Screenshot (2673).png…]()
-![Uploading Screenshot (2686).png…]()
-![Uploading Screenshot (2675).png…]()
+
