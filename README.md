@@ -13,16 +13,19 @@ User yang berinteraksi dengan website dalam mendata para tamu yang diundang mula
 
 ## Screenshoot dari beberapa UI
 ![Screenshot (2700)](https://github.com/fulan1234/Undangan/assets/116423371/d151844d-e345-4525-bf29-609a1f88e7b4)
+
 ![Screenshot (2699)](https://github.com/fulan1234/Undangan/assets/116423371/b91892cf-cb69-4e25-a21d-c462809ee4ee)
+
 ![Screenshot (2698)](https://github.com/fulan1234/Undangan/assets/116423371/c9add694-bc16-41d7-b67e-2e217990e45c)
+
 ![Screenshot (2697)](https://github.com/fulan1234/Undangan/assets/116423371/f046a1cf-00dd-4d89-93d9-7868ccd1bf13)
+
 ![Screenshot (2696)](https://github.com/fulan1234/Undangan/assets/116423371/ef7b3a94-d4ae-4506-ba3a-96226e005580)
+
 ![Screenshot (2695)](https://github.com/fulan1234/Undangan/assets/116423371/8f53110c-7311-4ffd-abe9-506a9ef72b03)
-![Screenshot (2694)](https://github.com/fulan1234/Undangan/assets/116423371/d5698809-33c9-43ab-ad2d-cdf73a875fe9)
-![Screenshot (2693)](https://github.com/fulan1234/Undangan/assets/116423371/1ac0941c-6334-4dfb-bef8-54f35db581f3)
+
 ![Screenshot (2692)](https://github.com/fulan1234/Undangan/assets/116423371/17263ed0-dadb-44fa-92dd-5f334ffa1796)
-![Screenshot (2691)](https://github.com/fulan1234/Undangan/assets/116423371/e0906df0-cb25-4082-9955-e77687d094b5)
-![Screenshot (2690)](https://github.com/fulan1234/Undangan/assets/116423371/de850624-9578-478e-9797-d67e3c5a99f4)
+
 ![Screenshot (2689)](https://github.com/fulan1234/Undangan/assets/116423371/30720e8d-17fa-4105-bb8a-ba4d9469bb8a)
 
 
